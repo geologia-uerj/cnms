@@ -65,8 +65,8 @@ var data = [trace1, trace2, trace3, trace4];
 var layout = {
   showlegend: false,
   autosize: false,
-  width: 600,
-  height: 550,
+  width: 100,
+  height: '80%',
   margin: {t: 50},
   hovermode: 'closest',
   bargap: 0,
