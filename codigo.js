@@ -66,7 +66,7 @@ var layout = {
   showlegend: false,
   autosize: false,
   width: 100,
-  height: '80%',
+  height: 550,
   margin: {t: 50},
   hovermode: 'closest',
   bargap: 0,
