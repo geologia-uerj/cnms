@@ -1,4 +1,3 @@
-
 function normal() {
     var x = 0,
         y = 0,
@@ -65,7 +64,7 @@ var data = [trace1, trace2, trace3, trace4];
 var layout = {
   showlegend: false,
   autosize: false,
-  width: 100,
+  width: 600,
   height: 550,
   margin: {t: 50},
   hovermode: 'closest',
